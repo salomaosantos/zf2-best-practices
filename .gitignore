@@ -9,3 +9,4 @@ nbproject
 composer.lock
 vendor/
 config/autoload/local.php
+.phpintel

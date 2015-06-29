@@ -1,5 +1,5 @@
 <?php
-// Filename: /module/Blog/src/Blog/Factory/PostServiceFactory.php
+
 namespace Blog\Factory;
 
 use Blog\Service\PostService;

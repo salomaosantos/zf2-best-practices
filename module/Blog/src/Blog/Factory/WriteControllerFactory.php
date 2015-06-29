@@ -1,5 +1,5 @@
 <?php
-// Filename: /module/Blog/src/Blog/Factory/WriteControllerFactory.php
+
 namespace Blog\Factory;
 
 use Blog\Controller\WriteController;

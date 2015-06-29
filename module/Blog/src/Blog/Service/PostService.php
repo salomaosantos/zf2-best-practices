@@ -1,5 +1,5 @@
 <?php
-// Filename: /module/Blog/src/Blog/Service/PostService.php
+
 namespace Blog\Service;
 
 use Blog\Model\Post;

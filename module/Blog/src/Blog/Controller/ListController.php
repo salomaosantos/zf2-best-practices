@@ -1,5 +1,5 @@
 <?php
-// Filename: /module/Blog/src/Blog/Controller/ListController.php
+
 namespace Blog\Controller;
 
 use Blog\Service\PostServiceInterface;

@@ -1,5 +1,5 @@
 <?php
-// Filename: /module/Blog/src/Blog/Mapper/ZendDbSqlMapper.php
+
 namespace Blog\Mapper;
 
 use Blog\Model\PostInterface;

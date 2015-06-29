@@ -1,5 +1,5 @@
 <?php
-// Filename: /module/Blog/src/Blog/Form/PostFieldset.php
+
 namespace Blog\Form;
 
 use Blog\Model\Post;

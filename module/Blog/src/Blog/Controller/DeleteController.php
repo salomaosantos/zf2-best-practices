@@ -1,5 +1,5 @@
 <?php
-// Filename: /module/Blog/src/Blog/Controller/DeleteController.php
+
 namespace Blog\Controller;
 
 use Blog\Service\PostServiceInterface;

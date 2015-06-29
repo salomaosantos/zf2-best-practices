@@ -1,5 +1,5 @@
 <?php
-// Filename: /module/Blog/src/Blog/Form/PostForm.php
+
 namespace Blog\Form;
 
 use Zend\Form\Form;

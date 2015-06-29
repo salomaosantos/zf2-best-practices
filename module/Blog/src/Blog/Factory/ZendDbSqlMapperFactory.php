@@ -1,5 +1,5 @@
 <?php
-// Filename: /module/Blog/src/Blog/Factory/ZendDbSqlMapperFactory.php
+
 namespace Blog\Factory;
 
 use Blog\Mapper\ZendDbSqlMapper;
